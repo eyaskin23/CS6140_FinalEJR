@@ -5,7 +5,11 @@
 Robert Zando, Evelyn Yaskin, Jason Ingersoll 
 
 Instructions for this project:
-1. Download and extract data.zip
+1. Download and extract data.zip from google drive link:
+
+https://drive.google.com/file/d/1dEo3elgQpm3H_aX-DV4g7S35T5RUqQ_s/view?usp=sharing
+
+Save it into folder "data"
 
 2. Running each method:
 

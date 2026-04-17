@@ -1,0 +1,99 @@
+17626__modularsamples__yamaha-cs-30l-click-perc
+20232__mtg__trumpet-single-notes
+21006__sgossner__vsco-2-ce-strings-cello-section-tremolo
+21037__sgossner__vsco-2-ce-woodwinds-piccolo-sustain
+29632__mogigrumbles__cs-80-sine
+29633__mogigrumbles__cs-80-clavichord-2
+29634__mogigrumbles__cs-80-brass-2
+88 Piano Keys Long Reverb
+9519__carlos_vaquero__viola-single-notes-tenuto-non-vibrato-d4-d5
+9520__carlos_vaquero__viola-single-notes-tenuto-d4-d5
+Arturia Microbrute Micro Piano
+Bassoon Staccato
+Bassoon Vibrato Sustain
+Brass F Horn Staccato
+Brass F Horn Sustain
+Brass Old Trombone Short
+Brass Old Trombone Sustain
+Brass Trumpet Staccato
+CS 80 Bass by mogigrumbles
+CS 80 Electric Piano by mogigrumbles
+CS 80 Flute by Mogigrumbles
+CS 80 Harpsichord 1 by Mogigrumbles
+CS 80 Organ 1 by mogigrumbles
+CS 80 String 1 by mogigrumbles
+CS 80 String 4 by mogigrumbles
+CS-80 Brass 3
+CS-80 Guitar
+CS-80 Guitar 2
+CS-80 Harpsichord 2
+CS-80 Organ 2
+Cabled Mess Sansula Jul 17 2016
+Cello Single Notes
+Cello Single Notes by MTG
+Cello by xserra
+Clarinet Long Sustain
+Clarinet Scales Played Badly
+Clarinet Single Notes by MTG
+Classical Guitar A2 B3 by Carlos Vaquero
+Distorted Guitar Single Notes
+Double Bass Single Notes
+Female Vocal Single Notes by owstu
+Flute Single Notes Played Badly
+Flute Single Notes by MTG
+Flute Staccato
+Fretless Bass
+Grand Piano 1 by GAMEDRIX974
+Harmonica Multisample Notes
+Kalimba Music Sample
+Korg Mono-Poly Xmod Bass
+MFB Kraftzwerg Boo Bass
+Mogi Grumbles CS-80 Saw
+Mogi Grumbles CS-80 String 4
+Musical Box Single Notes
+Nylon Guitar Single Notes by SpeedY
+Percussion One Shots by Sadiquecat
+Piano Naturalism by VizAion
+Plastic Wind Organ by Hookhead
+Plucked Guitar Notes by Skamos66
+Rickenbacker Bass Guitar Notes
+Roland JX-8P Bonus Bass
+Roland Jupiter 4 Noisy Bass
+Roland SH-2 Two Finger Bass
+Sax Alto Single Notes
+Sax Soprano Single Notes
+Sax Tenor Single Notes
+Suiko VS-1 Instrument Samples
+Tenor Sax Single Notes
+Trumpet Notes
+Tubular Bells Percussion
+Upright Piano Keys
+VSCO 2 CE Glockenspiel by sgossner
+VSCO 2 CE Percussion
+VSCO 2 CE Percussion Xylophone
+VSCO 2 CE Strings Harp by sgossner
+VSCO CE Keys Upright
+VSCO Cello Section Spiccato
+VSCO Cello Section Vibrato Sustain
+VSCO Percussion Library Drums
+Vantage VP795 Clean Guitar
+Viola Section Pizzicato
+Viola Section Spiccato
+Violin Pizzicato G4-G5 by Carlos Vaquero
+Violin Section Spiccato
+Violin Section Tremolo
+Violin Single Notes by MTG
+Yamaha CS-30L Angry Blip
+Yamaha CS-30L Bass Samples
+Yamaha CS-30L Cream Samples
+Yamaha CS-30L Guitar Samples
+Yamaha CS-30L Modular Samples
+Yamaha CS-30L Noisy Bass
+Yamaha CS-30L Pulse 2
+Yamaha CS-30L Pulse Samples
+Yamaha CS-30L Simple Bass
+Yamaha CS-30L Space Bass Samples
+Yamaha CS-30L Toy Piano
+Yamaha PSS560 Sample Pack
+audio
+piano_key

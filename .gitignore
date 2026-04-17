@@ -1,0 +1,11 @@
+.DS_Store
+*.zip
+*.pth
+*.wav
+*.ogg
+__pycache__/
+data/
+FNN/
+FNN_Group*
+Group_Generated*
+env/
